@@ -1,0 +1,40 @@
+name: "yaml name"
+title: "Data Analytics and Computational Social Science"
+favicon: Images/614660.jpg
+theme: my_theme.css
+description: |
+  site yml description here
+base_url: https://github.com/ThogaruSathvik/DACSS-blogsite.git
+repositoru_url: https://github.com/ThogaruSathvik/DACSS-blogsite.git
+output_dir: "docs"
+navbar:
+  logo:
+    image: Images/614660.jpg
+    href: https://www.umass.edu/sbs/data-analytics-and-computational-social-science-program
+  search: true
+  source_url: true
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Gallery"
+      href: gallery.html
+    - text: "Contributors"
+      href: contributors.html
+    - icon: fab fa-github
+      href: https://github.com/ThogaruSathvik/DACSS-blogsite.git
+    - icon: fa fa-rss
+      href: index.xml
+collections:
+  posts:
+    categories: true
+    categories_metadata: false
+    authors_metadata: false
+    feed_items_max: false
+    citations: true
+    disqus: 
+      shortname: Data-Analytics-and-Computational-Social-Science
+      hidden: false
+    share: [twitter, linkedin]
+output: distill::distill_article
