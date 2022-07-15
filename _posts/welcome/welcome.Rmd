@@ -21,3 +21,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
+```{r}
+summary(cars)
+plot(cars$speed)
+```
+
