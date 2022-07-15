@@ -18,10 +18,3 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/blog.html
 
 ```
-
-
-```{r}
-summary(cars)
-plot(cars$speed)
-```
-
