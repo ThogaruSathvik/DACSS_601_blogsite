@@ -26,7 +26,7 @@ You must have the following programs installed on your computer before you can b
 
 2.  click on Git/SVN. Check Enable version control interface for [Rstudio](https://www.rstudio.com/products/rstudio/#Desktop) projects. Set the path to the [Git](https://git-scm.com/downloads) executable that you just installed. Select Apply and then OK
 
-    ![](images/Screenshot%20(58).png)
+    ![](Images/Screenshot%20(58).png)
 
 3.  Open a shell, if you don’t know where [Git](https://git-scm.com/downloads) is installed.
 
