@@ -36,7 +36,7 @@ You must have the following programs installed on your computer before you can b
 
 6.  Restart RStudio ( Session \> Restart R) , if it worked out you will find the Git icon on the top toolbar, as shown below.
 
-    ![](images/Screenshot%20(108).png)
+    ![](Images/Screenshot%20(108).png)
 
 **Watch this Video on** [Integrating Git and Github with in RStudio](https://www.youtube.com/watch?v=pqWiwcfFz28&list=PL6fG9co6nK8ebkhWSS11z9MWKzRdoqzoTs) by Hans Quiogue.
 
