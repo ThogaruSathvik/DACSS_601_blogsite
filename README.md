@@ -78,17 +78,21 @@ Once you get the access/ invite to the DACSS 601 blogsite github repository foll
 
     ![](Images/Screenshot%20(67).png)
 
-    ![](Images/Screenshot%20(73)-03.png)
-
 8.  Now you can start creating your own blogposts.
 
-    ![](Images/Screenshot%20(74)-01.png)
+    ![](images/Screenshot%20(122).png)
 
-    ![](Images/Screenshot%20(82)-01.png)
+    ![](images/Screenshot%20(123).png)
+
+    ![](images/Screenshot%20(124).png)
+
+    ![](images/Screenshot%20(126).png)
 
 9.  And then knit your blog post or work and check your output in the viewer tab in one of the pane/ the output appears directly.
 
-    ![](Images/Screenshot%20(83)-02.png)
+    ![](images/Screenshot%20(127).png)
+
+    ![](images/Screenshot%20(128).png)
 
     if the output doesn't appear, Open the index file once and knit.
 
@@ -98,21 +102,15 @@ Once you get the access/ invite to the DACSS 601 blogsite github repository foll
 
     ![](Images/Screenshot%20(112).png)
 
-    ![](Images/Screenshot%20(113).png)
-
 10. Once you build your posts select all the files in the Git tab and click on commit
 
-    ![](Images/Screenshot%20(84).png)
+    ![](images/Screenshot%20(129).png)
 
-    ![](Images/Screenshot%20(86).png)
+    ![](images/Screenshot%20(130).png)
 
-    ![](Images/Screenshot%20(87).png)
-
-    ![](Images/Screenshot%20(90).png)
+    ![](images/Screenshot%20(131).png)
 
 11. Add commit message ( what are you adding on your branch ) and click on commit
-
-    ![](Images/Screenshot%20(91).png)
 
     ![](Images/Screenshot%20(92).png)
 
