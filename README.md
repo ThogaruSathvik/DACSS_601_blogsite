@@ -14,7 +14,7 @@ You must have the following programs installed on your computer before you can b
 
 2.  Install [Rstudio](https://www.rstudio.com/products/rstudio/#Desktop).
 
-3.  Install [Git](https://git-scm.com/downloads).
+3.  Install [Git](https://git-scm.com/downloads). ( Keep track where you installed the git on your system. We will use this path (where you installed the git executable) in the next steps )
 
 4.  Create [Github](https://github.com/) account.
 
@@ -24,7 +24,9 @@ You must have the following programs installed on your computer before you can b
 
     ![](Images/Screenshot%20(57).png)
 
-2.  click on Git/SVN. Check Enable version control interface for [Rstudio](https://www.rstudio.com/products/rstudio/#Desktop) projects. Set the path to the [Git](https://git-scm.com/downloads) executable that you just installed. Select Apply and then OK
+2.  click on Git/SVN. Check Enable version control interface for [Rstudio](https://www.rstudio.com/products/rstudio/#Desktop) projects. Set the path to the [Git](https://git-scm.com/downloads) executable that you just installed (it is git.exe file) . Select Apply and then OK
+
+    Skip to step 6 if you found the git executable.
 
     ![](Images/Screenshot%20(58).png)
 
@@ -34,9 +36,9 @@ You must have the following programs installed on your computer before you can b
 
 5.  Linux/OS X: type which git and hit enter. The path should be something like: /usr/bin/git
 
-6.  Restart RStudio ( Session \> Restart R) , if it worked out you will find the Git in one of your panes, as shown below.
+6.  Restart RStudio ( Session \> Restart R) , if it worked out you will find the Git in the top toolbar, as shown below.
 
-    ![](Images/Screenshot%20(108).png)
+    ![](Images/Screenshot%20(64).png)
 
 **Watch this Video on** [Integrating Git and Github with in RStudio](https://www.youtube.com/watch?v=pqWiwcfFz28&list=PL6fG9co6nK8ebkhWSS11z9MWKzRdoqzoTs) by Hans Quiogue.
 
@@ -64,9 +66,11 @@ Once you get the access/ invite to the DACSS 601 blogsite github repository foll
 
     ![](Images/Screenshot%20(104).png)
 
-5.  Paste it into the Repository URL field in the wizard, choose where you want to store it on your computer, and I recommend checking Open in a new session for a clean slate. Click “Create Project” to create it.![](Images/Screenshot%20(63).png)
+5.  Paste it into the Repository URL field in the wizard, choose where you want to store it on your computer, and I recommend checking Open in a new session for a clean slate. Click “Create Project” to create it.
 
-6.   Restart RStudio ( Session > Restart R), if it worked out you will find the Git icon on the top toolbar, as shown below.![](Images/Screenshot%20(64).png)
+    ![](Images/Screenshot%20(109).png)
+
+6.  Restart RStudio ( Session \> Restart R), if it worked out you will find the Git icon on the top toolbar, as shown below.![](Images/Screenshot%20(64).png)
 
 7.  Now choose the branch **template** and **create a new branch** on your name from the **template** branch.
 
@@ -74,19 +78,21 @@ Once you get the access/ invite to the DACSS 601 blogsite github repository foll
 
     ![](Images/Screenshot%20(67).png)
 
-    ![](Images/Screenshot%20(73)-02.png)
+    ![](images/Screenshot%20(73)-03.png)
 
 8.  Now you can start creating your own blogposts.
 
-    ![](Images/Screenshot%20(105).png)
+    ![](images/Screenshot%20(74)-01.png)
 
-    ![](Images/Screenshot%20(106).png)
-
-9.  Open the index file once and knit for the first time you do this only once
+    ![](images/Screenshot%20(82)-01.png)
 
     ![](Images/Screenshot%20(68)-01.png)
 
-10. And then knit your blog post or work and check your output in the viewer tab in one of the pane. 
+9.  And then knit your blog post or work and check your output in the viewer tab in one of the pane/ the output appears directly.
+
+    ![](images/Screenshot%20(83)-02.png)
+
+    if the output doesn't appear, Open the index file once and knit, you do this only once.
 
     ![](Images/Screenshot%20(70).png)
 
@@ -94,7 +100,7 @@ Once you get the access/ invite to the DACSS 601 blogsite github repository foll
 
     ![](Images/Screenshot%20(72).png)
 
-11. Once you build your posts select all the files in the Git tab and click on commit
+10. Once you build your posts select all the files in the Git tab and click on commit
 
     ![](Images/Screenshot%20(82).png)
 
@@ -106,27 +112,27 @@ Once you get the access/ invite to the DACSS 601 blogsite github repository foll
 
     ![](Images/Screenshot%20(90).png)
 
-12. Add commit message ( what are you adding on your branch ) and click on commit
+11. Add commit message ( what are you adding on your branch ) and click on commit
 
     ![](Images/Screenshot%20(91).png)
 
     ![](Images/Screenshot%20(92).png)
 
-13. Click Push
+12. Click Push
 
     ![](Images/Screenshot%20(93).png)
 
     ![](Images/Screenshot%20(94).png)
 
-14. Now go to the Github repository, you can see Compare & pull request ( go to your branch )
+13. Now go to the Github repository, you can see Compare & pull request ( go to your branch )
 
     ![](Images/Screenshot%20(80).png)
 
-15. You can see the message ( this branch is X commit ahead. X commit behind main. Click on the X commit ahead.
+14. You can see the message ( this branch is X commit ahead. X commit behind main. Click on the X commit ahead.
 
     ![](Images/Screenshot%20(81).png)
 
-16. Click on it . If you see Able to merge text on your screen. You are good to go. Click on the create pull request button. Donot click on merge pull request once only. And you are done. The reviewer will review your code and you can see your blog updated on the blog site. You can also check your classmates work on the blog. In the reviewers settings. Click on reviewers and add a reviewer to review your code.
+15. Click on it . If you see Able to merge text on your screen. You are good to go. Click on the create pull request button. Donot click on merge pull request once only. And you are done. The reviewer will review your code and you can see your blog updated on the blog site. You can also check your classmates work on the blog. In the reviewers settings. Click on reviewers and add a reviewer to review your code.
 
     ![](Images/Screenshot%20(98).png)
 
