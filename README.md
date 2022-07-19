@@ -66,7 +66,7 @@ Once you get the access/ invite to the DACSS 601 blogsite github repository foll
 
 5.  Paste it into the Repository URL field in the wizard, choose where you want to store it on your computer, and I recommend checking Open in a new session for a clean slate. Click “Create Project” to create it.![](Images/Screenshot%20(63).png)
 
-6.  Now you can see the Git tab in one of your panes in Rstudio. Click on GIt tab.![](Images/Screenshot%20(64).png)
+6.   Restart RStudio ( Session > Restart R), if it worked out you will find the Git icon on the top toolbar, as shown below.![](Images/Screenshot%20(64).png)
 
 7.  Now choose the branch **template** and **create a new branch** on your name from the **template** branch.
 
