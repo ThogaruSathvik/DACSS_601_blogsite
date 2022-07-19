@@ -86,23 +86,21 @@ Once you get the access/ invite to the DACSS 601 blogsite github repository foll
 
     ![](images/Screenshot%20(82)-01.png)
 
-    ![](Images/Screenshot%20(68)-01.png)
-
 9.  And then knit your blog post or work and check your output in the viewer tab in one of the pane/ the output appears directly.
 
     ![](images/Screenshot%20(83)-02.png)
 
-    if the output doesn't appear, Open the index file once and knit, you do this only once.
+    if the output doesn't appear, Open the index file once and knit.
 
-    ![](Images/Screenshot%20(70).png)
+    ![](images/Screenshot%20(110).png)
 
-    ![](Images/Screenshot%20(71).png)
+    ![](images/Screenshot%20(111).png)
 
-    ![](Images/Screenshot%20(72).png)
+    ![](images/Screenshot%20(112).png)
+
+    ![](images/Screenshot%20(113).png)
 
 10. Once you build your posts select all the files in the Git tab and click on commit
-
-    ![](Images/Screenshot%20(82).png)
 
     ![](Images/Screenshot%20(84).png)
 
@@ -130,14 +128,24 @@ Once you get the access/ invite to the DACSS 601 blogsite github repository foll
 
 14. You can see the message ( this branch is X commit ahead. X commit behind main. Click on the X commit ahead.
 
-    ![](Images/Screenshot%20(81).png)
+    ![](images/Screenshot%20(81)-01.png)
 
-15. Click on it . If you see Able to merge text on your screen. You are good to go. Click on the create pull request button. Donot click on merge pull request once only. And you are done. The reviewer will review your code and you can see your blog updated on the blog site. You can also check your classmates work on the blog. In the reviewers settings. Click on reviewers and add a reviewer to review your code.
+15. Click on it . If you see Able to merge text on your screen. You are good to go. Click on the create pull request button.
 
     ![](Images/Screenshot%20(98).png)
 
     ![](Images/Screenshot%20(99).png)
 
+16. In the reviewers settings. Click on reviewers and add a reviewer to review your code.
+
     ![](Images/Screenshot%20(100).png)
 
+17. And you are done. The reviewer will review your code and will merge with main. Give some time to the reviewer and you can see your blog updated on the blog site.
+
     ![](Images/Screenshot%20(101).png)
+
+18. You can also check your classmates work on the blog by clicking the link shown in the below picture.
+
+![](images/Screenshot%20(115).png)
+
+Thank you.
