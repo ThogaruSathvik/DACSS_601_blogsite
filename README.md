@@ -78,27 +78,27 @@ Once you get the access/ invite to the DACSS 601 blogsite github repository foll
 
     ![](Images/Screenshot%20(67).png)
 
-    ![](images/Screenshot%20(73)-03.png)
+    ![](Images/Screenshot%20(73)-03.png)
 
 8.  Now you can start creating your own blogposts.
 
-    ![](images/Screenshot%20(74)-01.png)
+    ![](Images/Screenshot%20(74)-01.png)
 
-    ![](images/Screenshot%20(82)-01.png)
+    ![](Images/Screenshot%20(82)-01.png)
 
 9.  And then knit your blog post or work and check your output in the viewer tab in one of the pane/ the output appears directly.
 
-    ![](images/Screenshot%20(83)-02.png)
+    ![](Images/Screenshot%20(83)-02.png)
 
     if the output doesn't appear, Open the index file once and knit.
 
-    ![](images/Screenshot%20(110).png)
+    ![](Images/Screenshot%20(110).png)
 
-    ![](images/Screenshot%20(111).png)
+    ![](Images/Screenshot%20(111).png)
 
-    ![](images/Screenshot%20(112).png)
+    ![](Images/Screenshot%20(112).png)
 
-    ![](images/Screenshot%20(113).png)
+    ![](Images/Screenshot%20(113).png)
 
 10. Once you build your posts select all the files in the Git tab and click on commit
 
@@ -128,7 +128,7 @@ Once you get the access/ invite to the DACSS 601 blogsite github repository foll
 
 14. You can see the message ( this branch is X commit ahead. X commit behind main. Click on the X commit ahead.
 
-    ![](images/Screenshot%20(81)-01.png)
+    ![](Images/Screenshot%20(81)-01.png)
 
 15. Click on it . If you see Able to merge text on your screen. You are good to go. Click on the create pull request button.
 
@@ -146,6 +146,6 @@ Once you get the access/ invite to the DACSS 601 blogsite github repository foll
 
 18. You can also check your classmates work on the blog by clicking the link shown in the below picture.
 
-![](images/Screenshot%20(115).png)
+![](Images/Screenshot%20(115).png)
 
 Thank you.
