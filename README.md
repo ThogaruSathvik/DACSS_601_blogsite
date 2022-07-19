@@ -80,7 +80,8 @@ Once you get the access/ invite to the DACSS 601 blogsite github repository foll
 
     ![](Images/Screenshot%20(73)-03.png)
 
-8.  Now you can start creating your own blogposts. While naming the blogpost name the post as "Yourname_week"
+8.  Now you can start creating your own blogposts. While creating the new post use the naming convention as follows " YourFullName_week#_Blogpost"
+    Ex: "SathvikThogaru_week1_Blogpost", "John_week1_Blogpost"
 
     ![](Images/Screenshot%20(74)-01.png)
 
