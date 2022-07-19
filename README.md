@@ -81,19 +81,19 @@ Once you get the access/ invite to the DACSS 601 blogsite github repository foll
 8.  Now you can start creating your own blogposts. While creating the new post use the naming convention as follows " YourFullName_week#_#post"
 Example: SathvikThogaru_week1_firstpost, SathvikThogaru_week1_secondpost, SathvikThogaru_week2_firstpost, ....
 
-    ![](images/Screenshot%20(122).png)
+    ![](Images/Screenshot%20(122).png)
 
-    ![](images/Screenshot%20(123).png)
+    ![](Images/Screenshot%20(123).png)
 
-    ![](images/Screenshot%20(124).png)
+    ![](Images/Screenshot%20(124).png)
 
-    ![](images/Screenshot%20(126).png)
+    ![](Images/Screenshot%20(126).png)
 
 9.  And then knit your blog post or work and check your output in the viewer tab in one of the pane/ the output appears directly.
 
-    ![](images/Screenshot%20(127).png)
+    ![](Images/Screenshot%20(127).png)
 
-    ![](images/Screenshot%20(128).png)
+    ![](Images/Screenshot%20(128).png)
 
     if the output doesn't appear, Open the index file once and knit.
 
@@ -105,11 +105,11 @@ Example: SathvikThogaru_week1_firstpost, SathvikThogaru_week1_secondpost, Sathvi
 
 10. Once you build your posts select all the files in the Git tab and click on commit
 
-    ![](images/Screenshot%20(129).png)
+    ![](Images/Screenshot%20(129).png)
 
-    ![](images/Screenshot%20(130).png)
+    ![](Images/Screenshot%20(130).png)
 
-    ![](images/Screenshot%20(131).png)
+    ![](Images/Screenshot%20(131).png)
 
 11. Add commit message ( what are you adding on your branch ) and click on commit
 
