@@ -13,8 +13,8 @@
     "categories": [],
     "contents": "\r\n\r\n     speed           dist       \r\n Min.   : 4.0   Min.   :  2.00  \r\n 1st Qu.:12.0   1st Qu.: 26.00  \r\n Median :15.0   Median : 36.00  \r\n Mean   :15.4   Mean   : 42.98  \r\n 3rd Qu.:19.0   3rd Qu.: 56.00  \r\n Max.   :25.0   Max.   :120.00  \r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png",
-    "last_modified": "2022-07-19T16:23:47-04:00",
-    "input_file": {},
+    "last_modified": "2022-07-19T16:27:10-04:00",
+    "input_file": "welcome.knit.md",
     "preview_width": 1248,
     "preview_height": 768
   }
