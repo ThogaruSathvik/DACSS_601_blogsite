@@ -12,7 +12,7 @@ You must have the following programs installed on your computer before you can b
 
 1.  Install [R](https://cloud.r-project.org/).
 
-2.  Install [Rstudio](https://www.rstudio.com/products/rstudio/#Desktop).
+2.  Install [Rstudio Desktop](https://www.rstudio.com/products/rstudio/#Desktop).
 
 3.  Install [Git](https://git-scm.com/downloads). ( Keep track where you installed the git on your system. We will use this path (where you installed the git executable) in the next steps )
 
