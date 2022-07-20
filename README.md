@@ -37,6 +37,7 @@ You must have the following programs installed on your computer before you can b
 5.  Linux/OS X: type which git and hit enter. The path should be something like: /usr/bin/git
 
 6.  Restart RStudio ( Session \> Restart R) , if it worked out you will find the Git in the top toolbar, as shown below.
+    if you dont find git, Go to File -> New Project -> Version control. If you see git then Git is connected.
 
     ![](Images/Screenshot%20(64).png)
 
