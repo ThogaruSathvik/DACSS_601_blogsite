@@ -1,0 +1,95 @@
+[
+  {
+    "path": "posts/2022-07-20-niharikapolaweek1firstpost/",
+    "title": "niharika_pola_week1_firstpost",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Unknown",
+        "url": {}
+      }
+    ],
+    "date": "2022-07-20",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-07-20T14:42:41-04:00",
+    "input_file": "niharikapolaweek1firstpost.knit.md"
+  },
+  {
+    "path": "posts/2022-07-19-sathvikfirstpost/",
+    "title": "Sathvik_first_post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "DACSS Academic Team",
+        "url": {}
+      }
+    ],
+    "date": "2022-07-19",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n     speed           dist       \r\n Min.   : 4.0   Min.   :  2.00  \r\n 1st Qu.:12.0   1st Qu.: 26.00  \r\n Median :15.0   Median : 36.00  \r\n Mean   :15.4   Mean   : 42.98  \r\n 3rd Qu.:19.0   3rd Qu.: 56.00  \r\n Max.   :25.0   Max.   :120.00  \r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-07-19-sathvikfirstpost/sathvikfirstpost_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2022-07-20T14:42:16-04:00",
+    "input_file": "sathvikfirstpost.knit.md",
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
+    "path": "posts/2022-07-19-sathvikthogaruweek1/",
+    "title": "Cars data Summary",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Unknown",
+        "url": {}
+      }
+    ],
+    "date": "2022-07-19",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n     speed           dist       \r\n Min.   : 4.0   Min.   :  2.00  \r\n 1st Qu.:12.0   1st Qu.: 26.00  \r\n Median :15.0   Median : 36.00  \r\n Mean   :15.4   Mean   : 42.98  \r\n 3rd Qu.:19.0   3rd Qu.: 56.00  \r\n Max.   :25.0   Max.   :120.00  \r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-07-19-sathvikthogaruweek1/sathvikthogaruweek1_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2022-07-20T14:42:28-04:00",
+    "input_file": "sathvikthogaruweek1.knit.md",
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
+    "path": "posts/2022-07-15-cars-summary/",
+    "title": "Cars Summary",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "DACSS Academic Team",
+        "url": {}
+      }
+    ],
+    "date": "2022-07-15",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n     speed           dist       \r\n Min.   : 4.0   Min.   :  2.00  \r\n 1st Qu.:12.0   1st Qu.: 26.00  \r\n Median :15.0   Median : 36.00  \r\n Mean   :15.4   Mean   : 42.98  \r\n 3rd Qu.:19.0   3rd Qu.: 56.00  \r\n Max.   :25.0   Max.   :120.00  \r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-07-15-cars-summary/cars-summary_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2022-07-20T14:42:04-04:00",
+    "input_file": "cars-summary.knit.md",
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to DACSS 601",
+    "description": "Welcome to our new blog, DACSS 601. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "DACSS Academic Team",
+        "url": {}
+      }
+    ],
+    "date": "2022-07-14",
+    "categories": [],
+    "contents": "\r\n\r\n     speed           dist       \r\n Min.   : 4.0   Min.   :  2.00  \r\n 1st Qu.:12.0   1st Qu.: 26.00  \r\n Median :15.0   Median : 36.00  \r\n Mean   :15.4   Mean   : 42.98  \r\n 3rd Qu.:19.0   3rd Qu.: 56.00  \r\n Max.   :25.0   Max.   :120.00  \r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2022-07-20T14:42:53-04:00",
+    "input_file": "welcome.knit.md",
+    "preview_width": 1248,
+    "preview_height": 768
+  }
+]

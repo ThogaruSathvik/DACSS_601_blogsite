@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Data Analytics and Computational Social Science</title>
+    <link>https://github.com/ThogaruSathvik/DACSS-blogsite.git</link>
+    <atom:link href="https://github.com/ThogaruSathvik/DACSS-blogsite.git/index.xml" rel="self" type="application/rss+xml"/>
+    <description>site yml description here
+</description>
+    <image>
+      <title>Data Analytics and Computational Social Science</title>
+      <url>https://github.com/ThogaruSathvik/DACSS-blogsite.git/Images/614660.jpg</url>
+      <link>https://github.com/ThogaruSathvik/DACSS-blogsite.git</link>
+    </image>
+    <generator>Distill</generator>
+    <lastBuildDate>Wed, 20 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>niharika_pola_week1_firstpost</title>
+      <dc:creator>Unknown</dc:creator>
+      <link>https://github.com/ThogaruSathvik/DACSS-blogsite.git/posts/2022-07-20-niharikapolaweek1firstpost</link>
+      <description>A short description of the post.</description>
+      <guid>https://github.com/ThogaruSathvik/DACSS-blogsite.git/posts/2022-07-20-niharikapolaweek1firstpost</guid>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sathvik_first_post</title>
+      <dc:creator>DACSS Academic Team</dc:creator>
+      <link>https://github.com/ThogaruSathvik/DACSS-blogsite.git/posts/2022-07-19-sathvikfirstpost</link>
+      <description>A short description of the post.</description>
+      <guid>https://github.com/ThogaruSathvik/DACSS-blogsite.git/posts/2022-07-19-sathvikfirstpost</guid>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/ThogaruSathvik/DACSS-blogsite.git/posts/2022-07-19-sathvikfirstpost/sathvikfirstpost_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Cars data Summary</title>
+      <dc:creator>Unknown</dc:creator>
+      <link>https://github.com/ThogaruSathvik/DACSS-blogsite.git/posts/2022-07-19-sathvikthogaruweek1</link>
+      <description>A short description of the post.</description>
+      <guid>https://github.com/ThogaruSathvik/DACSS-blogsite.git/posts/2022-07-19-sathvikthogaruweek1</guid>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/ThogaruSathvik/DACSS-blogsite.git/posts/2022-07-19-sathvikthogaruweek1/sathvikthogaruweek1_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Cars Summary</title>
+      <dc:creator>DACSS Academic Team</dc:creator>
+      <link>https://github.com/ThogaruSathvik/DACSS-blogsite.git/posts/2022-07-15-cars-summary</link>
+      <description>A short description of the post.</description>
+      <guid>https://github.com/ThogaruSathvik/DACSS-blogsite.git/posts/2022-07-15-cars-summary</guid>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/ThogaruSathvik/DACSS-blogsite.git/posts/2022-07-15-cars-summary/cars-summary_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Welcome to DACSS 601</title>
+      <dc:creator>DACSS Academic Team</dc:creator>
+      <link>https://github.com/ThogaruSathvik/DACSS-blogsite.git/posts/welcome</link>
+      <description>Welcome to our new blog, DACSS 601. We hope you enjoy 
+reading what we have to say!</description>
+      <guid>https://github.com/ThogaruSathvik/DACSS-blogsite.git/posts/welcome</guid>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/ThogaruSathvik/DACSS-blogsite.git/posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+  </channel>
+</rss>
