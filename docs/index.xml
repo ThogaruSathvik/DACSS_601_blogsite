@@ -12,7 +12,25 @@
       <link>https://github.com/ThogaruSathvik/DACSS-blogsite.git</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 20 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>R Markdown Introduction</title>
+      <dc:creator>Abhinav Kumar</dc:creator>
+      <link>https://github.com/ThogaruSathvik/DACSS-blogsite.git/posts/r-markdown-introduction</link>
+      <description>Understanding Basics of R Markdown (RMD)</description>
+      <guid>https://github.com/ThogaruSathvik/DACSS-blogsite.git/posts/r-markdown-introduction</guid>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/ThogaruSathvik/DACSS-blogsite.git/posts/r-markdown-introduction/distill-preview.png" medium="image" type="image/png" width="1280" height="720"/>
+    </item>
+    <item>
+      <title>International Trade Network Analysis (2012 - 2021) </title>
+      <dc:creator>Abhinav Kumar</dc:creator>
+      <link>https://github.com/ThogaruSathvik/DACSS-blogsite.git/posts/international-trade-network-analysis-2012-2021</link>
+      <description>Network Analysis of 10 years Trade Data for top producers of Copper, Lithium, and Graphite</description>
+      <guid>https://github.com/ThogaruSathvik/DACSS-blogsite.git/posts/international-trade-network-analysis-2012-2021</guid>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/ThogaruSathvik/DACSS-blogsite.git/posts/international-trade-network-analysis-2012-2021/distill-preview.png" medium="image" type="image/png" width="800" height="709"/>
+    </item>
     <item>
       <title>niharika_pola_week1_firstpost</title>
       <dc:creator>Unknown</dc:creator>
